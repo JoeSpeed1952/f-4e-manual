@@ -1,7 +1,7 @@
 # Weapons & Stores
 
 As a cornerstone of air forces around the globe, the F-4E's effectiveness is not
-only attributed to its advanced avionics and airframe design but also to its
+only attributed to its advanced avionics and airframe design, but also its
 formidable array of weapons and stores.
 
 The F-4E features three main types of [Air-to-Air](./air_to_air/overview.md)
@@ -74,20 +74,20 @@ stations.
 | AN/ALE-40       |     | (1) |     |     |     |     |     | (1) |     |     2 |
 | Fuel Tank       |  1  |     |     |     |  1  |     |     |     |  1  |     3 |
 
-In general, stations 3, 4, 6 and 7 can be used to load Air-To-Air Missiles, or
-also Jammer and Targeting Pods.
+In general, stations 3, 4, 6, and 7 can be used to load Air-To-Air Missiles, and/or
+Jammer (ECM) and Targeting Pods.
 
-Air-To-Ground Ordnance is mostly carrier on pylons 1, 2, 5, 8 and 9.
+Air-To-Ground Ordnance is mostly carried on pylons 1, 2, 5, 8, and 9.
 
 Pylons 2 and 8 are special, since they can be equipped with the
-Special-Weapons-Adapter (SWA) and have additional attach-points on their sides
-(labelled 2L, 2R, 8L, 8R) for loading AIM-9 Sidewinder missiles without
+Special-Weapons-Adapter (SWA) and have additional attachment points on their sides
+(labeled 2L, 2R, 8L, 8R) for loading AIM-9 Sidewinder missiles without
 occupying the entire pylon.
 
-> 💡 AIM-9 Sidewinder can be loaded onto pylon 2 and 8 additionally to other
-> ordnance. Hence, it is still possible to equip for example a Maverick on the
+> 💡 AIM-9 Sidewinder can be loaded onto pylons 2 and 8 in addition to other
+> ordnance. Hence, it is still possible to equip, for example, a Maverick on the
 > same pylon.
 
 Further, AN/ALE-40 Countermeasure Dispensers can be attached to the aft section
-of Pylon 2 and 8. Allowing the aircraft to carry a mix between 120 chaff and 30
+of Pylons 2 and 8. Allowing the aircraft to carry a mix between 120 chaff and 30
 flares in total.
