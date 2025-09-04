@@ -21,7 +21,7 @@ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Principle
 
-The J97 engine is an axial-flow turbojet engine. It can roughly be divided into
+The J79 engine is an axial-flow turbojet engine. It can roughly be divided into
 the following components:
 
 - Inlet
